@@ -1,0 +1,7 @@
+CARA MENJALANKAN DI XAMPP
+1. Buka XAMPP Control Panel, Start "Apache" dan "MySQL".
+2. Salin folder bengkel_firman ke C:\xampp\htdocs\
+3. Buka http://localhost/phpmyadmin -> tab "Import" -> pilih database.sql -> Go.
+4. Buka http://localhost/bengkel_firman/
+5. Login: admin / admin123 (Admin) atau kasir / kasir123 (Kasir).
+Jika MySQL memakai password, ubah DB_USER dan DB_PASS di koneksi.php.
